@@ -1,0 +1,214 @@
+{
+    "Cinemas":[
+        {
+            "Title": "Road House",
+            "Year": "2024",
+            "Rated": "R",
+            "Released": "21 Mar 2024",
+            "Runtime": "114 min",
+            "Genre": "Action, Thriller",
+            "Director": "Doug Liman",
+            "Writer": "Anthony Bagarozzi, Chuck Mondry, R. Lance Hill",
+            "Actors": "Jake Gyllenhaal, Conor McGregor, Daniela Melchior",
+            "Plot": "Ex-UFC fighter Dalton (Jake Gyllenhaal) takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTFiNTMxNTQtM2EzOS00NWNhLWFmNzctNjU5ODIzNDIzMzYzXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX300.jpg",
+            "Ratings": [],
+            "Metascore": "N/A",
+            "imdbRating": "6.2",
+            "imdbVotes": "69.5k",
+            "imdbID": "tt3359350",
+            "Type": "movie",
+            "DVD": "N/A",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True",
+            "Trailer":"https://www.imdb.com/video/vi1146603289/?ref_=tt_vi_i_1"
+        },
+        {
+            "Title": "Bramayugam",
+            "Year": "2024",
+            "Rated": "N/A",
+            "Released": "15 Feb 2024",
+            "Runtime": "139 min",
+            "Genre": "Horror, Thriller",
+            "Director": "Rahul Sadasivan",
+            "Writer": "T. d Ramakrishnan, Rahul Sadasivan",
+            "Actors": "Mammootty, Arjun Ashokan, Sidharth Bharathan",
+            "Plot": "Thevan, a folk singer of the Paanan caste, has a fateful encounter when escaping slavery, leading to discover an ancient tradition altering his destiny.",
+            "Language": "Malayalam, Kannada, Hindi, Tamil, Telugu",
+            "Country": "India",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNWExZDRhZTktMGUxOS00ODQyLTk0ZTMtY2VkYWJkZjZlZDUyXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_SX300.jpg",
+            "Ratings": [
+              {
+                "Source": "Internet Movie Database",
+                "Value": "8.6/10"
+              }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.6",
+            "imdbVotes": "1k",
+            "imdbID": "tt27431598",
+            "Type": "movie",
+            "DVD": "N/A",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True",
+            "Trailer":"https://www.imdb.com/video/vi692897561/?ref_=tt_vi_i_1"
+        },
+        {
+            "Title": "Oppenheimer",
+            "Year": "2023",
+            "Rated": "R",
+            "Released": "21 Jul 2023",
+            "Runtime": "180 min",
+            "Genre": "Biography, Drama, History",
+            "Director": "Christopher Nolan",
+            "Writer": "Christopher Nolan, Kai Bird, Martin Sherwin",
+            "Actors": "Cillian Murphy, Emily Blunt, Matt Damon",
+            "Plot": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+            "Language": "English, German, Italian",
+            "Country": "United States, United Kingdom",
+            "Awards": "Nominated for 13 Oscars. 326 wins & 362 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_SX300.jpg",
+            "Ratings": [
+              {
+                "Source": "Internet Movie Database",
+                "Value": "8.4/10"
+              },
+              {
+                "Source": "Rotten Tomatoes",
+                "Value": "93%"
+              },
+              {
+                "Source": "Metacritic",
+                "Value": "88/100"
+              }
+            ],
+            "Metascore": "88",
+            "imdbRating": "8.4",
+            "imdbVotes": "665k",
+            "imdbID": "tt15398776",
+            "Type": "movie",
+            "DVD": "21 Nov 2023",
+            "BoxOffice": "$329,153,395",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True",
+            "Trailer":"https://www.imdb.com/video/vi2053751833/?ref_=tt_vi_i_1"
+        },
+        {
+            "Title": "Romancham",
+            "Year": "2023",
+            "Rated": "N/A",
+            "Released": "03 Feb 2023",
+            "Runtime": "130 min",
+            "Genre": "Comedy, Horror",
+            "Director": "Jithu Madhavan",
+            "Writer": "Jithu Madhavan",
+            "Actors": "Soubin Shahir, Arjun Ashokan, Chemban Vinod Jose",
+            "Plot": "A game of Ouija board goes hilariously wrong when seven bachelors unexpectedly invite a spirit and try to make the best out of the situation.",
+            "Language": "Malayalam",
+            "Country": "India",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOWRkNDBiMTAtMmJmZi00MzlmLWJjMzUtNDg2YmUzMzRlZmVlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+            "Ratings": [
+              {
+                "Source": "Internet Movie Database",
+                "Value": "7.5/10"
+              }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "7.5",
+            "imdbVotes": "6.5k",
+            "imdbID": "tt20249418",
+            "Type": "movie",
+            "DVD": "N/A",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True",
+            "Trailer":"https://www.imdb.com/video/vi1679082521/?ref_=tt_vi_i_1"
+        },
+        {
+            "Title": "Anatomy of a Fall",
+            "Year": "2023",
+            "Rated": "R",
+            "Released": "22 Mar 2024",
+            "Runtime": "151 min",
+            "Genre": "Crime, Drama, Thriller",
+            "Director": "Justine Triet",
+            "Writer": "Justine Triet, Arthur Harari",
+            "Actors": "Sandra Hüller, Swann Arlaud, Milo Machado-Graner",
+            "Plot": "A woman is suspected of murder after her husband's death; their half-blind son faces a moral dilemma as the main witness.",
+            "Language": "French, English, German",
+            "Country": "France",
+            "Awards": "Nominated for 5 Oscars. 90 wins & 189 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDBiYmRkNjUtYzc4My00NGFiLWE2NWUtMGU1ZDA1NTQ3ZjQwXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX300.jpg",
+            "Ratings": [
+              {
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+              },
+              {
+                "Source": "Rotten Tomatoes",
+                "Value": "96%"
+              },
+              {
+                "Source": "Metacritic",
+                "Value": "89/100"
+              }
+            ],
+            "Metascore": "89",
+            "imdbRating": "7.8",
+            "imdbVotes": "79k",
+            "imdbID": "tt17009710",
+            "Type": "movie",
+            "DVD": "22 Dec 2023",
+            "BoxOffice": "$4,882,769",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True",
+            "Trailer":"https://www.imdb.com/video/vi3689989913/?ref_=tt_vi_i_1"
+        },
+        {
+            "Title": "Godzilla x Kong: The New Empire",
+            "Year": "2024",
+            "Rated": "PG-13",
+            "Released": "29 Mar 2024",
+            "Runtime": "115 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Director": "Adam Wingard",
+            "Writer": "Terry Rossio, Simon Barrett, Jeremy Slater",
+            "Actors": "Rebecca Hall, Brian Tyree Henry, Dan Stevens",
+            "Plot": "Two ancient titans, Godzilla and Kong, clash in an epic battle as humans unravel their intertwined origins and connection to Skull Island's mysteries.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BN2VjZmI4NTctMmVjMy00NTc0LWE1YzAtMTE0MTg1ZDY2NmQyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "Ratings": [
+              {
+                "Source": "Internet Movie Database",
+                "Value": "6.7/10"
+              }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "6.7",
+            "imdbVotes": "11k",
+            "imdbID": "tt14539740",
+            "Type": "movie",
+            "DVD": "N/A",
+            "BoxOffice": "$37,000,000",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True",
+            "Trailer":"https://www.imdb.com/video/vi2055259673/?ref_=tt_vi_i_1"
+        }
+
+    ]
+}

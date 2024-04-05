@@ -1,0 +1,184 @@
+{
+    "Series":[
+        {
+            "Title": "Mirzapur",
+            "Year": "2018–",
+            "Rated": "TV-MA",
+            "Released": "15 Nov 2018",
+            "Episodes": "20",
+            "Genre": "Action, Crime, Drama",
+            "Director": "N/A",
+            "Writer": "Puneet Krishna, Karan Anshuman",
+            "Actors": "Pankaj Tripathi, Ali Fazal, Divyendu Sharma",
+            "Plot": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
+            "Language": "Hindi",
+            "Country": "India",
+            "Awards": "9 wins & 41 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BN2NlNGYwYTUtMTczMi00NGVjLTgwMzUtNjBkZjIyNDc2NjcxXkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_SX300.jpg",
+            "Trailer":"https://www.imdb.com/video/vi1825094681/?ref_=tt_vi_i_6",
+            "Ratings": [
+              {
+                "Source": "Internet Movie Database",
+                "Value": "8.5/10"
+              }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.5",
+            "imdbVotes": "81k",
+            "imdbID": "tt6473300",
+            "Type": "series",
+            "totalSeasons": "3",
+            "Response": "True"
+          },
+          {
+            "Title": "Tale of the Nine Tailed",
+            "Year": "2020–",
+            "Rated": "TV Series",
+            "Released": "05 May 2023",
+            "Episodes": "28",
+            "Genre": "Fantasy, History, Horror",
+            "Director": "N/A",
+            "Writer": "N/A",
+            "Actors": "Lee Dong-wook, Kim Bum, Kim Yong-ji",
+            "Plot": "An urban dark fantasy drama about a gumiho who settles into the city and a producer who is after it.",
+            "Language": "Korean, Hindi",
+            "Country": "South Korea",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BODNmY2ZmNTMtYWZiNS00NTc3LWI0NzMtMGRkMGMwMDM3NDRkXkEyXkFqcGdeQXVyNDU4MDQ0MjM@._V1_SX300.jpg",
+            "Trailer":"https://www.imdb.com/video/vi3253846297/?ref_=tt_vi_i_1",
+            "Ratings": [
+              {
+                "Source": "Internet Movie Database",
+                "Value": "7.9/10"
+              }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "7.9",
+            "imdbVotes": "9k",
+            "imdbID": "tt12879418",
+            "Type": "series",
+            "totalSeasons": "2",
+            "Response": "True"
+          },
+          {
+            "Title": "Sacred Games",
+            "Year": "2018–2019",
+            "Rated": "TV-MA",
+            "Released": "06 Jul 2018",
+            "Episodes": "16",
+            "Genre": "Action, Crime, Drama",
+            "Director": "N/A",
+            "Writer": "Varun Grover",
+            "Actors": "Saif Ali Khan, Nawazuddin Siddiqui, Neeraj Kabi",
+            "Plot": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+            "Language": "Hindi",
+            "Country": "India, United States",
+            "Awards": "15 wins & 17 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjJlMjJlMzYtNmU5Yy00N2MwLWJmMjEtNWUwZWIyMGViZDgyXkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg",
+            "Trailer":"https://youtu.be/AkUgf2jIPyI?si=njIgrrzzDJbW3GQe",
+            "Ratings": [
+              {
+                "Source": "Internet Movie Database",
+                "Value": "8.5/10"
+              }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.5",
+            "imdbVotes": "92k",
+            "imdbID": "tt6077448",
+            "Type": "series",
+            "totalSeasons": "2",
+            "Response": "True"
+          },
+          {
+            "Title": "Alchemy of Souls",
+            "Year": "2022–",
+            "Rated": "TV-14",
+            "Released": "18 Jun 2022",
+            "Episodes": "30",
+            "Genre": "Action, Drama, Fantasy",
+            "Director": "N/A",
+            "Writer": "N/A",
+            "Actors": "Lee Jae-wook, Hwang Min-hyun, Yoo Joon-sang",
+            "Plot": "Set in a fictional country called Daeho, it is about the love and growth of young mages as they overcome their twisted fates due to a forbidden magic spell known as the \"alchemy of souls\", which allows souls to switch bodies.",
+            "Language": "Korean",
+            "Country": "South Korea",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhZGFhMmItM2RmMC00NWIxLWE5ZjMtMmIwZmJkNTdjZTg4XkEyXkFqcGdeQXVyOTI5NDk4NDQ@._V1_SX300.jpg",
+            "Trailer":"https://www.imdb.com/video/vi3889349145/?ref_=tt_vi_i_4",
+            "Ratings": [
+              {
+                "Source": "Internet Movie Database",
+                "Value": "8.8/10"
+              }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.8",
+            "imdbVotes": "17k",
+            "imdbID": "tt20859920",
+            "Type": "series",
+            "totalSeasons": "2",
+            "Response": "True"
+          },
+          {
+            "Title": "Kota Factory",
+            "Year": "2019–2021",
+            "Rated": "TV-14",
+            "Released": "28 Aug 2021",
+            "Episodes": "11",
+            "Genre": "Comedy, Drama",
+            "Director": "N/A",
+            "Writer": "Saurabh Khanna",
+            "Actors": "Mayur More, Jitendra Kumar, Ranjan Raj",
+            "Plot": "Dedicated to Shrimati SL Loney ji, Shri Irodov ji and Maanniya HC Verma ji, 'Kota Factory' is TVF's latest original. India's first 'Black and White' show highlights the problems present day IIT-JEE aspirants face in their day-to-d...",
+            "Language": "Hindi",
+            "Country": "India",
+            "Awards": "9 wins & 15 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOGVmMGYwZTEtOGFlYS00ODRhLTg3M2MtMzc1OGNhNzU3N2IzXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_SX300.jpg",
+            "Trailer":"https://www.imdb.com/video/vi2336866329/?ref_=tt_vi_i_4",
+            "Ratings": [
+              {
+                "Source": "Internet Movie Database",
+                "Value": "9.0/10"
+              }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "9.0",
+            "imdbVotes": "80k",
+            "imdbID": "tt9432978",
+            "Type": "series",
+            "totalSeasons": "2",
+            "Response": "True"
+          },
+          {
+            "Title": "Mysterious Lotus Casebook",
+            "Year": "2023",
+            "Rated": "TV Series",
+            "Released": "23 Jul 2023",
+            "Episodes": "40",
+            "Genre": "Action, Drama, Mystery",
+            "Director": "N/A",
+            "Writer": "N/A",
+            "Actors": "Yi Cheng, Joseph Zeng, Aero Xiao",
+            "Plot": "A decade after a fierce battle, Li Xiang Yi wishes to live life as Li Lian Hua, an unassuming doctor. However, his plan is upended when he encounters Fang Duo Bing, a passionate detective, and an old enemy seeking to settle a score.",
+            "Language": "Mandarin",
+            "Country": "China",
+            "Awards": "16 wins & 2 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDM1N2Y1YjktMDUzMS00ZGM1LWI5ODQtZGQ4OTk1ZjY0NTI4XkEyXkFqcGdeQXVyMjI2ODE1NTA@._V1_SX300.jpg",
+            "Trailer":"https://youtu.be/o-vzAyXDmdE?si=dN15RqvID2PfW0nu",
+            "Ratings": [
+              {
+                "Source": "Internet Movie Database",
+                "Value": "8.0/10"
+              }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.0",
+            "imdbVotes": "1k",
+            "imdbID": "tt28132016",
+            "Type": "series",
+            "totalSeasons": "N/A",
+            "Response": "True"
+          }
+    ]
+}
